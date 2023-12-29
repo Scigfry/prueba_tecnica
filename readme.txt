@@ -1,0 +1,1 @@
+Si se quiere reentrenar el modelo, se tiene que lanzar el docker, y ejecutar el fichero python.
